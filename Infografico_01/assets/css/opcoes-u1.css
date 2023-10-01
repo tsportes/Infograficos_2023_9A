@@ -1,0 +1,39 @@
+.opcoes>.opcao:nth-child(1) .opcao__cabecalho-icone::after {
+    content: '\e917';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(2) .opcao__cabecalho-icone::after {
+    content: '\e916';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(3) .opcao__cabecalho-icone::after {
+    content: '\e915';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(4) .opcao__cabecalho-icone::after {
+    content: '\e914';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(5) .opcao__cabecalho-icone::after {
+    content: '\e913';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(6) .opcao__cabecalho-icone::after {
+    content: '\e919';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(7) .opcao__cabecalho-icone::after {
+    content: '\e918';
+    margin: 0 0 0 3.5px;
+}
+
+.qrcode_img {
+    top: 5%;
+    right: -5%;
+}
