@@ -1,0 +1,54 @@
+.opcoes>.opcao:nth-child(1) .opcao__cabecalho-icone::after {
+    content: '\e903';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(2) .opcao__cabecalho-icone::after {
+    content: '\e90c';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(3) .opcao__cabecalho-icone::after {
+    content: '\e900';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(4) .opcao__cabecalho-icone::after {
+    content: '\e910';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(5) .opcao__cabecalho-icone::after {
+    content: '\e900';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(6) .opcao__cabecalho-icone::after {
+    content: '\e919';
+    margin: 0 0 0 3.5px;
+}
+
+.opcoes>.opcao:nth-child(7) .opcao__cabecalho-icone::after {
+    content: '\e918';
+    margin: 0 0 0 3.5px;
+}
+
+.qrcode_img {
+    top: 12px;
+    right: -266px;
+}
+
+
+/* Apenas para a unidade 6 */
+
+#ATR_DID_F2_ESLE8_A_D_IM_INFO_RED_016 {
+    height: 105px;
+}
+
+#ATR_DID_F2_ESLE8_A_D_IM_INFO_RED_017 {
+    height: 210px;
+}
+
+#ATR_DID_F2_ESLE8_A_D_IM_INFO_RED_018 {
+    height: 190px;
+}
